@@ -7,6 +7,12 @@ An AI-powered application that generates comprehensive digital transformation pl
 ![LangGraph](https://img.shields.io/badge/Framework-LangGraph-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+> **Note**: This project is a work in progress. Features and documentation may change as development continues.
+
+## Demo
+
+![Digital Transformation Planner Demo](images/digital_tx.gif)
+
 ## Overview
 
 The Digital Transformation Planner is an advanced application that leverages AI to help organizations plan and execute successful digital transformations. By analyzing company information, industry context, and business challenges, the system generates detailed transformation plans with specific recommendations, technology stacks, and organizational readiness assessments.
@@ -25,7 +31,7 @@ The Digital Transformation Planner is an advanced application that leverages AI 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/digital-transformation-planner.git
+   git clone https://github.com/naoufal51/digital-transformation-planner.git
    cd digital-transformation-planner
    ```
 
@@ -133,4 +139,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - OpenAI for providing the LLM capabilities
 - LangChain for the LangGraph framework
-- Streamlit for the interactive web interface 
+- Streamlit for the interactive web interface
