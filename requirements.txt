@@ -1,0 +1,24 @@
+# Core dependencies
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+typing-extensions>=4.8.0
+
+# LangChain and LangGraph
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langgraph>=0.0.20
+langsmith>=0.0.56
+
+# OpenAI
+openai>=1.6.0
+
+# Data visualization
+plotly>=5.18.0
+pandas>=2.1.2
+
+# Logging and error handling
+loguru>=0.7.2
+
+# Image processing (optional, for custom visualizations)
+pillow>=10.1.0 
